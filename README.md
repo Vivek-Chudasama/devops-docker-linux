@@ -1,8 +1,7 @@
-# Basic Linux Commands in Docker
-
-This project contains a simple Dockerfile built using `ubuntu:latest`.  
-When the container runs, it automatically executes several basic Linux commands such as `ls`, `pwd`, `whoami`, `uname`, and `date`.  
-The purpose of this assignment is to demonstrate understanding of Docker, Git, Linux, and DevOps concepts.
+Create a Dockerfile that will have basic Linux command operations inside shown. Build that Dockerfile, push it to Github. Create a Readme.md with 
+1. Any 5 DevOps concepts of your choice.
+2. Explain in words how you would complete this assignment. All Docker commands and Git commands were used to complete it. Copy-paste of the commands used from the terminal is OK.
+3. How does it help you learn DevOps, Linux, Git, and Docker?
 
 ---
 
