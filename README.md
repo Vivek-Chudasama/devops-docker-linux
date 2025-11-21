@@ -98,13 +98,7 @@ https://github.com/your-vvekdocker/devops-docker-linux
 # Then run:
 
 git branch -M main
-git remote add origin https://github.com/your-username/devops-docker-linux.git
-git push -u origin main
-
-# Then run:
-
-git branch -M main
-git remote add origin https://github.com/your-username/devops-docker-linux.git
+git remote add origin https://github.com/Vivek-Chudasama/devops-docker-linux.git
 git push -u origin main
 
 **3. How This Assignment Helps Me Learn DevOps, Linux, Git, and Docker**
