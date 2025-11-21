@@ -93,7 +93,7 @@ git commit -m "Initial commit with Dockerfile and README"
 
 # Create a new empty GitHub repository:
 
-https://github.com/your-vvekdocker/devops-docker-linux
+https://github.com/Vivek-Chudasama/devops-docker-linux
 
 # Then run:
 
